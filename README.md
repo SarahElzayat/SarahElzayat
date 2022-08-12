@@ -4,7 +4,6 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Sarah!</div>  
   
 
 - 🔭 I’m currently studying computer engineering at Cairo University.  
@@ -19,10 +18,10 @@
 <br/>  
 
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+ -->
 
 ### Programming Languages and platforms  
 <div align="center">  
