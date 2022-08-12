@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently a computer engineering student at Cairo University.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarahelzayatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-elzayat-55a57a131) 
