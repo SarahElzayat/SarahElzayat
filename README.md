@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I don't know what I'm doing 90% of the time.  
   
-- 📄 Know about my experiences<a href="https://drive.google.com/drive/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE?usp=sharing" target="_blank"><img style="margin: 10px" src="https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-vector-resume-icon-png-image_1018862.jpg" alt="CV" height="20" /></a>  
+- 📄 Know about my experiences  <a href="https://drive.google.com/drive/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE?usp=sharing" target="_blank"><img style="margin: 10px" src="https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-vector-resume-icon-png-image_1018862.jpg" alt="CV" height="30" /></a>  
 
 <br/>  
 
