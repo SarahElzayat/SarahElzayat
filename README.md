@@ -14,6 +14,7 @@
 
 - ⚡ Fun fact: I don't know what I'm doing 90% of the time.  
   
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE?usp=sharing](https://drive.google.com/drive/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE?usp=sharing)
 
 <br/>  
 
