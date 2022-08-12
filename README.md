@@ -61,8 +61,6 @@
 <a href="https://www.facebook.com/sarahelzayatt" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.leetcode.com/sarahelzayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarahelzayat" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sarahelzayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sarahelzayat" height="30" width="40" /></a>
 </div>  
   
 
