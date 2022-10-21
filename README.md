@@ -96,5 +96,8 @@
 
 <div align="center"></div>
 <br />
+<!-- Snake -->
+<p align="center"><img src="https://github.com/Mostafa-wael/Mostafa-wael/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ----
