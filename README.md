@@ -4,11 +4,10 @@
 </div>  
   
 
-  
+<br/>  
 
 - 🔭 A computer engineering at Cairo University, Faculty of Engineering.  
 - 🌱 Flutter developer.  
-- ⚡ Fun fact: I don't know what I'm doing 90% of the time.
 - 📄 Check my [resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
 
 <br/>  
