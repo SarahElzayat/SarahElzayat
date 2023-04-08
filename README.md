@@ -7,16 +7,9 @@
   
 
 - 🔭 A computer engineering at Cairo University, Faculty of Engineering.  
-  
-
 - 🌱 Flutter developer.  
-  
-
-- ⚡ Fun fact: I don't know what I'm doing 90% of the time.  
-  
-- 📄 [Check my resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
-<!-- - 
-- Know about my experiences  <a href="https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE"><img style= "margin: 20px" src="https://png.pngtree.com/png-vector/20190501/ourlarge/pngtree-vector-resume-icon-png-image_1018862.jpg" alt="CV" height="30" /></a>   -->
+- ⚡ Fun fact: I don't know what I'm doing 90% of the time.
+- 📄 Check my [resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
 
 <br/>  
 
@@ -47,8 +40,6 @@
 </td><td valign="top" width="33%">
  -->
 
- -->
- 
  <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
