@@ -7,8 +7,8 @@
 <br/>  
 
 - 🔭 A computer engineering at Cairo University, Faculty of Engineering.  
-- 🌱 Flutter developer.  
-- 📄 Check my [resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
+- 🌐 Full stack intern at PS Solutions.
+- 📄 Check out my [resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
 
 <br/>  
 
