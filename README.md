@@ -29,7 +29,10 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Git" height="50" /></a>
 </div>
 <!-- 
 </td><td valign="top" width="100%">
