@@ -62,7 +62,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Git" height="50" /></a>
 </div>
