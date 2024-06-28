@@ -8,7 +8,7 @@
 
 - 🔭 Computer engineering at Cairo University, Faculty of Engineering.  
 - 🌐 Full stack developer at PS Solutions.
-- 📄 Check out my [resume](https://drive.google.com/drive/u/0/folders/1QASu1JKc_pcyWysbvnEeIT-17T9rw6RE/)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1sGvI5xXhNj1x3etIGovzYpPp7uJztIh6/view?usp=drive_link)
 
 <br/>  
 
