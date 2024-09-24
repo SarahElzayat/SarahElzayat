@@ -6,8 +6,7 @@
 
 <br/>  
 
-- 🔭 Computer engineering at Cairo University, Faculty of Engineering.  
-- 🌐 Full stack developer at PS Solutions.
+- 🌐 Full stack developer at Coformatique.
 - 📄 Check out my [resume](https://drive.google.com/file/d/1sGvI5xXhNj1x3etIGovzYpPp7uJztIh6/view?usp=drive_link)
 
 <br/>  
